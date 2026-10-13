@@ -1,0 +1,4 @@
+stereo:
+  baseline: 0.1
+  num_disparities: 96
+  block_size: 5
